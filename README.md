@@ -29,7 +29,7 @@ Primeiramente, foram criadas três interfaces que representam as funcionalidades
 O diagrama UML foi projetado para mostrar as implementações das interfaces na classe `Iphone`.
 
 #### Diagrama UML:
-![Diagrama UML Iphone 2007](https://github.com/user-attachments/assets/bc14c8d4-97d8-4556-8853-289b392e44e0)
+![Diagrama UML Iphone 2007](https://github.com/user-attachments/assets/f9c3c71d-8360-4da6-9a68-bd263beaea6d)
 
 ### 2. Desenvolvimento do Código
 Após a criação do diagrama UML, desenvolvi as interfaces e a classe Iphone em Java.
